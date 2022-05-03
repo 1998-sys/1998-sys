@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Terça da Serra - Technology](https://mkt.tercadaserra.com.br/ts_tecnology)
 
-- 👯 I’m looking to collaborate on **projetos de ciencia de dados e IA**
+- 👯 I’m looking to collaborate on **data science and AI projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/1998-sys/Data_Science](https://github.com/1998-sys/Data_Science)
 
-- 💬 Ask me about **Technologia, ciência de dados, sistemas embarcados, IA**
+- 💬 Ask me about **Technology, data science, embedded systems, AI**
 
 - 📫 How to reach me **matheus.bandeira74@gmail.com**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matheusbandeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusbandeira" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matheus-bandeira-60831a181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus-bandeira-60831a181" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
