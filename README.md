@@ -16,7 +16,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 - 👯 I’m looking to collaborate on **data science and AI projects**
 - 👨‍💻 All of my projects are available at [https://github.com/1998-sys/Data_Science](https://github.com/1998-sys/Data_Science)
 - 💬 Ask me about **Technology, data science, embedded systems, AI**
-- 📫 How to reach me **matheus.bandeira74@gmail.com**
+- 📫 How to reach me **matheus.a.bandeira@gmail.com**
 - 📄 Know about my experiences [https://www.linkedin.com/in/matheus-bandeira-60831a181/](https://www.linkedin.com/in/matheus-bandeira-60831a181/)
 
 <h3 align="left">Languages and Tools:</h3>
