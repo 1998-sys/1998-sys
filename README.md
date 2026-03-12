@@ -12,7 +12,7 @@ This [GIF converter](https://ezgif.com/video-to-gif) help me to create a dedicat
 Then i save result to [assets/github.gif](assets/github.gif)
 -->
 
-- 🔭 I’m currently working on [Terça da Serra - Technology](https://mkt.tercadaserra.com.br/ts_tecnology)
+- 🔭 I’m currently working on [ODS METERING SYSTEMS](https://ods-metering-systems.com/pt-pt/)
 - 👯 I’m looking to collaborate on **data science and AI projects**
 - 👨‍💻 All of my projects are available at [https://github.com/1998-sys/Data_Science](https://github.com/1998-sys/Data_Science)
 - 💬 Ask me about **Technology, data science, embedded systems, AI**
